@@ -1,0 +1,105 @@
+{
+  "ret": true,
+  "data": {
+    "hospitalList": [
+      {
+        "itemid": 30,
+        "itemcode": "e75a5818-972d-4d7d-bfd9-225b2e083552",
+        "hospitalName": "城西北卫生服务中心国医堂",
+        "hospitalLevel": "乙等",
+        "hospitalBooking": 33,
+        "hospitalSource": 3,
+        "hospitalDistance": 0,
+        "hospitalPhone": "36987-7894",
+        "hospitalPro": "广西壮族自治区",
+        "hospitalCity": "南宁市",
+        "hospitalCountry": "良庆区",
+        "hospitalAdress": "五象大道669号",
+        "status": "1",
+        "creater": "小明",
+        "itemcreateat": "2021-08-25 15:52:15",
+        "itemupdateat": "2021-08-25 15:52:15",
+        "introduce": [],
+
+        "natmehaFileDTO": {
+          "itemid": 20,
+          "itemcode": "e75a5818-972d-4d7d-bfd9-225b2e083552",
+          "dataCode": "e75a5818-972d-4d7d-bfd9-225b2e083552",
+          "uploader": "",
+          "uploaderCode": "",
+          "fileName": "",
+          "fileType": "图片",
+          "fileSize": 3.6,
+          "filePath": "https://img0.baidu.com/it/u=103721101,4076571305&fm=26&fmt=auto&gp=0.jpg",
+          "itemcreateat": "2021-08-24 08:41:38"
+
+        }
+      },
+      {
+        "itemid": 28,
+        "itemcode": "e75a5818-972d-4d7d-bfd9-225b2e083557",
+        "hospitalName": "城西北卫生服务中心国医堂",
+        "hospitalLevel": "乙等",
+        "hospitalBooking": 33,
+        "hospitalSource": 3,
+        "hospitalDistance": 0,
+        "hospitalPhone": "36987-7894",
+        "hospitalPro": "广西壮族自治区",
+        "hospitalCity": "南宁市",
+        "hospitalCountry": "良庆区",
+        "hospitalAdress": "五象大道669号",
+        "status": "1",
+        "creater": "小明",
+        "itemcreateat": "2021-08-25 15:52:15",
+        "itemupdateat": "2021-08-25 15:52:15",
+        "introduce": [],
+
+        "natmehaFileDTO": {
+          "itemid": 20,
+          "itemcode": "e75a5818-972d-4d7d-bfd9-225b2e083557",
+          "dataCode": "e75a5818-972d-4d7d-bfd9-225b2e083557",
+          "uploader": "",
+          "uploaderCode": "",
+          "fileName": "",
+          "fileType": "图片",
+          "fileSize": 3.6,
+          "filePath": "https://img0.baidu.com/it/u=103721101,4076571305&fm=26&fmt=auto&gp=0.jpg",
+          "itemcreateat": "2021-08-24 08:41:38"
+
+        }
+      },
+      {
+        "itemid": 29,
+        "itemcode": "e75a5818-972d-4d7d-bfd9-225b2e083551",
+        "hospitalName": "城西北卫生服务中心国医堂",
+        "hospitalLevel": "乙等",
+        "hospitalBooking": 33,
+        "hospitalSource": 3,
+        "hospitalDistance": 0,
+        "hospitalPhone": "36987-7894",
+        "hospitalPro": "广西壮族自治区",
+        "hospitalCity": "南宁市",
+        "hospitalCountry": "良庆区",
+        "hospitalAdress": "五象大道669号",
+        "status": "1",
+        "creater": "小明",
+        "itemcreateat": "2021-08-25 15:52:15",
+        "itemupdateat": "2021-08-25 15:52:15",
+        "introduce": [],
+        "natmehaFileDTO": {
+          "itemid": 22,
+          "itemcode": "e75a5818-972d-4d7d-bfd9-225b2e083551",
+          "dataCode": "e75a5818-972d-4d7d-bfd9-225b2e083551",
+          "uploader": "",
+          "uploaderCode": "",
+          "fileName": "",
+          "fileType": "图片",
+          "fileSize": 3.6,
+          "filePath": "https://img0.baidu.com/it/u=103721101,4076571305&fm=26&fmt=auto&gp=0.jpg",
+          "itemcreateat": "2021-08-24 08:41:38"
+
+        }
+      }
+    ]
+  }
+}
